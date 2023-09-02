@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vikram!</h1>
 <h3 align="center">I'm a robotics, AI, and AV enthusiast and am currently enrolled in UMD's Master's in Robotics program. I have also recently graduated from IIT Ropar, India, with a major in mechanical engineering and a minor in computer science.</h3>
 
-- 🌱 I’m always learning and making myself better at **software development, system design, computer vision, reinforcement learning, and robot navigation and path planning.**
+- 🌱 I’m always learning and making myself better at **software development, system design, computer vision, reinforcement learning, navigation, perception, and path planning.**
 
 - 💬 Ask me about **all kinds of technology!**
 
