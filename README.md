@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vikram!</h1>
-<h3 align="center">I'm a robotics, AI, and AV enthusiast currently enrolled in UMD's Master's in Robotics program.</h3>
+<h3 align="center">I'm a computer vision, robotics, and AI engineer currently enrolled in UMD's Master's in Robotics program.</h3>
 
-- 🌱 I’m always learning and making myself better at **computer vision, reinforcement learning, multi-agent systems, perception, navigation, and path planning.**
+- 🌱 I’m always learning and making myself better at **robotic perception, navigation, path planning**, and areas spanning **multimodal AI.**
 
-- 💬 Ask me about **robotics, AI, software development, and technology in general!**
+- 💬 Ask me about **computer vision, robotics, AI, software development, and technology in general!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
